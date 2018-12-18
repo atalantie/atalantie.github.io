@@ -34,7 +34,8 @@ body {
     border-radius: 255px;
     outline: none;
     text-align: center;
-    background-color: rgba(7, 39, 28, 0.3);
+    background-color: rgba(139, 187, 145, 0.48);
+
     color: var(--main-text);
     font-size: 14pt;
     font-family: 'Open Sans Italic', sans-serif;
