@@ -21,7 +21,6 @@
 	}
 	
 	#searchbox{
-
 		width: 50%;
 		height: 6%;
 		border: none;
@@ -35,7 +34,6 @@
 		display: block;
 		margin: auto;
 		margin-top: 50px;
-		caret-color: transparent;
 	}
 	
     #stripe {
