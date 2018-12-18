@@ -22,18 +22,21 @@
 	
 	#searchbox{
 		width: 50%;
-		height: 6%;
+		height: 4%;
 		border: none;
 		border-radius: 3px;
 		outline: none;
 		text-align: center;
-		background-color: rgb(7, 39, 28);
+		background-color: rgba(7, 39, 28, 0.3);
+		border-radius: 255px;
 		color: var(--main-text);
 		font-size: 14pt;
 		font-family: 'Open Sans Italic', sans-serif;
 		display: block;
 		margin: auto;
 		margin-top: 50px;
+		caret-color: rgba(0, 0, 0, 0.1);
+		caret-color: white;
 	}
 	
     #stripe {
